@@ -41,7 +41,7 @@ label {
 } 
 
 body.dark label {
-	background-color: white;
+	background-color: #fff;
 }
 
 input {
